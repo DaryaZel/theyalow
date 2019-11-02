@@ -41,8 +41,8 @@ You must use pure HTML and CSS in your solution. Fonts and images must be hosted
 - [ ] 1. Failure to submit on time may result in losing **up to 40 points** of the total homework score!
 - [ ] 2. Failure to comply with the requirements of any task item may result in losing **3 to 10 points**.
 - [ ] 3. Failure to comply with coding standards or syntax requirements may result in losing **up to 20 points**.
-- [ ] 4. Failure to comply with the PSD template (except for nuances with fonts) may result in losing **up to 40 points**.
-- [ ] 5. Failure to match both desktop and mobile may result in losing **up to 50 points**.
+- [x] 4. Failure to comply with the PSD template (except for nuances with fonts) may result in losing **up to 40 points**.
+- [x] 5. Failure to match both desktop and mobile may result in losing **up to 50 points**.
 
 ## Terms of Reference
 
@@ -53,45 +53,45 @@ You must use pure HTML and CSS in your solution. Fonts and images must be hosted
 **Desktop**
 
 1. Header
-- [ ] Interactive nav.
-- [ ] Logo
-- [ ] Think of where `h1` should be used.
+- [x] Interactive nav.
+- [x] Logo
+- [x] Think of where `h1` should be used.
 
 2. Main
-- [ ] Video element placed with image placeholder.
-- [ ] Slider buttons could be inactive, but should exist.
+- [x] Video element placed with image placeholder.
+- [x] Slider buttons could be inactive, but should exist.
 - (Next)
 - [ ] 3 columns the same width.
-- [ ] svg icons.
+- [x] svg icons.
 - (Next)
-- [ ] Video element placed with image placeholder.
-- [ ] All '+' should be interactive.
+- [x] Video element placed with image placeholder.
+- [x] All '+' should be interactive.
 - [ ] Customize range input slider, could be inactive.
 
 3. Footer
-- [ ] Logo
+- [x] Logo
 
 **Mobile**
 
 1. Header
-- [ ] Interactive nav.
-- [ ] Logo
-- [ ] Think of where `h1` should be used.
+- [x] Interactive nav.
+- [x] Logo
+- [x] Think of where `h1` should be used.
 
 2. Main
-- [ ] Video element placed with image placeholder.
-- [ ] Swiper instead of slider (for our case, just hide the slider).
+- [x] Video element placed with image placeholder.
+- [x] Swiper instead of slider (for our case, just hide the slider).
 - (Next)
 - [ ] 3 columns the same width.
-- [ ] svg icons.
+- [x] svg icons.
 - (Next)
-- [ ] Video element placed with image placeholder.
-- [ ] All '+' should be interactive.
+- [x] Video element placed with image placeholder.
+- [x] All '+' should be interactive.
 - [ ] Twitter messages should have the same design with 2 lines - message and author. 
 - [ ] Form -> input + submit
 
 3. Footer
-- [ ] Logo
+- [x] Logo
 
 
 ## Useful links
